@@ -1,4 +1,4 @@
-# 
+# Secure Visual Studio Code templates for Mac OS | VIP Visual Studio Code templates for PC Windows. Featuring smart-search and project-manager — optimized for maximum performance on every platform.
 
 
 
